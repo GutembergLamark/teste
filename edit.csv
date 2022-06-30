@@ -1,0 +1,6 @@
+soma;" i";i < arr.length;arr[i] % 2
+0;"0";true;false
+0;"1";true;true
+2;"2";true;false
+2;"3";true;true
+6;"4";true;false
